@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lankan Fake News Detection
+# Sri Lankan Fake News Detection
 
 ## Project Overview
 
@@ -189,8 +189,8 @@ pip install -r requirements.txt
 
 ## Authors
 
-**U.K.R.R.P. Ayuwardhana**  
-**W.H.C.D.J. Karunanayaka**
+**U.K.R.R.P. Ayuwardhana - ITBIN-2312-0020**  
+**W.H.C.D.J. Karunanayaka - ITBIN-2312-0021**
 
 **BSc (Hons) in Information Technology**  
 Faculty of Information Technology  
